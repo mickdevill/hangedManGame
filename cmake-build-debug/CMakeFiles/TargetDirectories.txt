@@ -1,0 +1,3 @@
+C:/Users/Mickdevil/CLionProjects/HangedManGame/cmake-build-debug/CMakeFiles/fivthWorkSpace.dir
+C:/Users/Mickdevil/CLionProjects/HangedManGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mickdevil/CLionProjects/HangedManGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
